@@ -1,0 +1,9 @@
+{
+  "url": "https://tworuledefi.ct.ws",
+  "name": "tworuledefi.ton",
+  "iconUrl": "https://tworuledefi.ct.ws/icon.png",
+  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/terms-of-use.txt",
+  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/privacy-policy.txt",
+  "endpoint": "https://tworuledefi.ct.ws/",
+  "network": "mainnet"
+}
